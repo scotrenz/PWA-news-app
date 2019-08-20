@@ -2,6 +2,6 @@
 
 ## Running locally
 
-Serve folder with `npm install -g serve`.
+Install server `npm install -g serve`.
 Then serve folder with `npx serve`
 
